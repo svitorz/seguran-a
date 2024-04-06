@@ -1,0 +1,61 @@
+Segurança cibernética é um esforço contínuo para proteger indivíduos, organizações e governos de ataques digitais por proteger.
+
+IoT = Aparelhos que usam a internet para armazenar ou transicionar dados.
+
+Cubo de McCumber
+
+Confidencicalidade -> regras que evitam a divulgação de dadis sensíveis para pessoas, recursos ou processos não autorizados (criptografia, prova de identidade e autenticação de dois fatores).
+
+Integridade -> garante que informações ou processos do sitema sejam protegidos contra modificações intencionais ou acidentais. (função hash)
+
+Disponibilidade -> Significa que os usuarios autorizados podem acessar e utilizar os dados quando necessários.
+
+amostra prática de hash de arquivos.
+-----------------------------------------
+>touch hash.txt
+>md5 hash.txt
+----------------------------------------
+após alterar o arquivo .txt e refazer o hash com md5, os números do hash serão diferentes.
+
+Processamento -> refere-se aos dados que estão sendo usandos para executar uma operação. Commo atualizar um registro de banco de dados. 
+
+Armazenamento -> refere-se a dados armazenados na memória ou em um dispositivo de armazenamento permanente.
+
+Transmissão ->  
+
+Conscientização, treinamento e educação -> medidas adotadas por organização para garantir que usuários tenham conhecimentos sobre as possíveis ameaças a segurança e as ações que podem tomar para proteger os sistemas de informação
+
+A tecnologia -> se refere as soluções de software e hardware projetadas para proteger sistemas de informação, como firewalls, que monitoram continuamente sua rede em busca de possíveis mal-intencionados.
+
+Política e procedimentos -> se refere aos controles administrativos que fornecem uma base sobre como uma empresa implementa a garantia de informações, como planos de resposta a incidentes e diretrizes de melhores práticas.
+
+|-----------------------|
+| 	Perguntas       |
+| Criptografia de       |
+| framework funciona?   |
+|			|
+| Para que serve o 	|
+| veteran?		|
+|-----------------------|
+
+Botnet -> Ao utilizar um sistema crackeado, é aberto uma backdoor para que outras máquinas utilizem-a para o que desejam (esconder arquivos, fazer ataques).
+
+Maneiras de "fechar" uma backdoor = formatação da máquina, uso de antivirus especializados.
+
+TeraBox? Não.
+
+Have i been pwned? Sim.
+
+Consequência de uma violação de segurança: 
+
+- Danos a reputação de um site.
+- Vandalismo (vandalizar um site de uma empresa publicando informações falsas.
+- Roubo.
+- Perda de receita.
+- Propriedade intelectual prejudicada.
+
+NÃO EXISTE PROTEÇÃO 100%.
+
+Controle mental e tranquilidade.
+
+Uma violação de seguramça é um incidente que resulta em acesso não autorizado a dados, aplicações, serviços ou dispositivos 

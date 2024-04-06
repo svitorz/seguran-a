@@ -1,0 +1,62 @@
+Todo e qualquer software malicioso criado com a intenção de causar algum dano é um malware.
+
+Tipos:
+
+Spyware -> Rastrear toda a atividade online, registrar as suas atividades.
+Adware -> Gera anúncios na tela.
+Backdoor -> Criar uma vulnerabilidade na maquina, deixa uma porta aberta no sistema.
+Ramsomware -> Sequestra dados, criptografa e cobra pelo resgate deles.
+Scareware -> Cria janelas parecidas com o sistema operacional para levar o usuário a instalar programas ou abrir brechas.
+Rootkit -> Abre uma backdoor. Não faz dinstinção de S.O. É executado em programas na memória RAM.
+Virús -> Se replica e se anexa em outros executáveis. (UBS, discos ópticos, compartilhamento de rede)
+Trojan -> Software com função específica mas com operações "escondidas".
+Worm -> pode se replicar pela rede sem a ação de nenhum usuário.
+
+Sintomas: Aumento do uso de CPU, computador congela ou trava, diminuição na velocidade da navegação, problemas com rede, arquivos modificados ou excluídos, processos ou serviços desconhecidos, arquivos que se configuram sozinho, emails enviados.
+
+Baseado nas assinaturas dos softwares, os anti-vírus detectam qual tipo de software é o que está sendo instalado e se ele é um malware ou não.
+(2.1.3)
+
+Engenharia social: Manipulação para que uma pessoa faça algo que normalmente ela não faria.
+
+Métodos de infiltração de engenharia social: 
+- Pretexting = O invasor liga e mente para tentar obter dados priviliagiados.
+
+- Tailgating = Usar as credênciais de outros para acessar um lugar em que o usuário não é permitido.
+
+- Algo por algo (Quiti pro quo) = Quando se solicita uma informação pessoal em troca de algo, como um brinde gratuito.
+
+ATAQUES:
+Ataque de negação de serviço -> Quando um invasor impede que um usuário acesse um serviço ou aplicação com um alto número de requisições (quantidade esmagadora de dados).
+
+Ataques Ddos: um ataque de serviço distribuida é semelhante a um ataque de negação de serviço (DoS), mas é proveniente de várias fontes coordenadas.
+
+BOTNET: Computadores zumbi, infectados com malwares como backdoor, realizam ataques em servidores sem que o usuário dono da máquina saiba
+
+Ataques Ddos: um ataque de serviço distribuida é semelhante a um ataque de negação de serviço (DoS), mas é proveniente de várias fontes coordenadas.
+
+BOTNET: Computadores zumbi, infectados com malwares como backdoor, realizam ataques em servidores sem que o usuário dono da máquina saiba.
+
+MAN-IN-THE-MIDDLE (MITM)
+Quando um indíviduo assume o controle total de um dispositivo sem o conhecimento do usuário.
+
+man-in-middle(MitMO)
+Ataque para assumir dispositivos móveis
+
+SEO Poisoning: Melhorar o visual de um site para que obtenha melhores resultados nos mecanismos de pesquisa, mas ao abri-lo, o usuário é redirecionado para um site malicioso.
+
+Ataques de senha:
+Password Sparying: usar senhas usadas com frequência em um grande número de contas.
+
+Wordlist: um hacker tenta sistematicamente acessar usando um dicionario de palavras
+
+Ataque de força bruta: Tenta todas as combinações possíveis.
+
+Ataque do arco-íris [Rainbow]: Dicionário de hash com o hash das senhas mais comuns.
+
+HASH:tentativa para garantir a passagem de uma informação
+
+Interceptação de tráfego: Texto sem formatação ou senhas sem criptografia podem ser facilmente lidas por outras máquinas interceptado comunicações.
+(2.2.9) - (2.2.11)
+
+
